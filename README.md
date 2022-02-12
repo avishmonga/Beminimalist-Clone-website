@@ -1,6 +1,9 @@
 # Beminimalist-Clone-website
 This is a Full Function Website that allow user to buy skincare products with great user interface with minimalist feature.
 
+**TechStack**
+ HTML | CSS | Javascript | MongoDB | NodeJS | ExpressJS
+
 **Home**
 
 <img style="width:1000px" src="https://user-images.githubusercontent.com/80064807/153701088-3abb03ed-7f87-40e7-a341-f3237b54a052.gif" />
